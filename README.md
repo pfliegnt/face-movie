@@ -18,6 +18,8 @@ Supported on Python 3 and OpenCV 3+. Tested on macOS High Sierra and Mojave.
 * matplotlib
 * pillow
 
+A good starting point if you're running  Windows is to install [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
+
 ## Installation
 1. Clone the repo.
 ```
